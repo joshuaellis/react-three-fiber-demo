@@ -4,9 +4,8 @@
 
 Welcome to my (pretty basic) `react-three-fiber` demo, although really, its a demo for the `@react-three` ecosystem. The following libraries are included:
 
-* [`react-three-fiber`](https://github.com/pmndrs/react-three-fiber)
-* [`@react-three/drei`](https://github.com/pmndrs/drei)
-* [`three-stdlib`](https://github.com/pmndrs/three-stdlib)
+- [`react-three-fiber`](https://github.com/pmndrs/react-three-fiber)
+- [`@react-three/drei`](https://github.com/pmndrs/drei)
 
 Oh and of course [`three.js`](https://www.github.com/mrdoob/three.js)
 
